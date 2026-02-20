@@ -23,6 +23,9 @@ Advanced analytics: NLP | machine learning | network analysis | bibliometrics | 
 
 Tools: R | Python | SQL | Shiny | Quarto | GitHub | BigQuery | QGIS
 
+## Currently Seeking
+Senior technical or scientific leadership roles in government contracting, nonprofits, or mission-driven organizations where data-driven approaches inform decisions about human health, science policy, and social equity.
+
 ## Links
 
 - Portfolio: [kchoover14.github.io](https://kchoover14.github.io/) *(under construction)*
