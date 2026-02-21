@@ -1,4 +1,4 @@
-# Kara C. Hoover
+# Kara C. Hoover, PhD
 
 Biological anthropologist and data scientist specializing in human variation, adaptation, and olfactory science. I apply NLP, machine learning, and network analysis to questions in public health, science policy, and social equity.
 
