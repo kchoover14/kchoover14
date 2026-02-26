@@ -28,7 +28,7 @@ Senior technical or scientific leadership roles in government contracting, nonpr
 
 ## Links
 
-- Portfolio: [kchoover14.github.io](https://kchoover14.github.io/) *(under construction)*
+- Portfolio: [kchoover14.github.io](https://kchoover14.github.io/)
 - Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=xGjZA1cAAAAJ&hl=en)
 - ORCID: [0000-0001-6394-930X](https://orcid.org/0000-0001-6394-930X)
 - LinkedIn: [linkedin.com/in/karachoover](https://www.linkedin.com/in/karachoover/)
