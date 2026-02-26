@@ -2,7 +2,7 @@
 
 Biological anthropologist and data scientist specializing in human variation, adaptation, and olfactory science. I apply NLP, machine learning, and network analysis to questions in public health, science policy, and social equity.
 
-**R | Python | SQL | Shiny | Quarto**
+**R | Python | SQL | Shiny | GoogleBiqQuery | AWS | LLM | Quarto**
 
 ---
 
