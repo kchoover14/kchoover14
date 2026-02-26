@@ -6,10 +6,6 @@ Biological anthropologist and data scientist specializing in human variation, ad
 
 ---
 
-> **This portfolio is actively under construction.** Project pages and repositories are being updated with revised documentation, cleaned scripts, and full analytical write-ups. Check back soon.
-
----
-
 ## Research Areas
 
 - Human biological variation and adaptation -- biomechanics, developmental stress, genetic epidemiology
