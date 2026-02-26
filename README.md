@@ -2,9 +2,13 @@
 
 Biological anthropologist and data scientist specializing in human variation, adaptation, and olfactory science. I apply NLP, machine learning, and network analysis to questions in public health, science policy, and social equity.
 
-**R | Python | SQL | Shiny | GoogleBiqQuery | AWS | LLM | Quarto**
-
 ---
+
+## Technical Skills
+
+Advanced analytics: NLP | machine learning | network analysis | bibliometrics | geospatial analysis | Bayesian methods | time series | interactive visualization
+
+Tools: R | Python | SQL | Shiny | Quarto | GitHub | BigQuery | QGIS
 
 ## Research Areas
 
@@ -13,13 +17,8 @@ Biological anthropologist and data scientist specializing in human variation, ad
 - International science policy -- R&D trends, research collaboration networks, global benchmarking
 - Social equity -- democracy, governance, women's empowerment, health access
 
-## Technical Skills
 
-Advanced analytics: NLP | machine learning | network analysis | bibliometrics | geospatial analysis | Bayesian methods | time series | interactive visualization
-
-Tools: R | Python | SQL | Shiny | Quarto | GitHub | BigQuery | QGIS
-
-## Currently Seeking
+## Interesting In
 Senior technical or scientific leadership roles in government contracting, nonprofits, or mission-driven organizations where data-driven approaches inform decisions about human health, science policy, and social equity.
 
 ## Links
