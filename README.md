@@ -18,8 +18,11 @@ Tools: R | Python | SQL | Shiny | Quarto | GitHub | BigQuery | QGIS
 - Social equity -- democracy, governance, women's empowerment, health access
 
 
-## Interesting In
-Senior technical or scientific leadership roles in government contracting, nonprofits, or mission-driven organizations where data-driven approaches inform decisions about human health, science policy, and social equity.
+## Interested In
+- Evidence-based decision-making
+- Data-driven policy
+- International science diplomacy
+- Seeking senior technical or scientific leadership roles in government contracting, nonprofits, or mission-driven organizations
 
 ## Links
 
